@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: fahad5151/actionassignment:latest
+          tags: JunaidQureeshi/new-pipeline:latest
